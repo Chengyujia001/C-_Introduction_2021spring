@@ -1,3 +1,3 @@
 # C-_Introduction_2021spring
-INSTRUCTOR:    Takyiu Liu, PhD
-TEXTBOOK:     <Starting Out with C++ from Control Structures to Objects>  BY Tony Gaddis
+\nINSTRUCTOR:\t\tTakyiu Liu, PhD
+\nTEXTBOOK:\t\t<Starting Out with C++ from Control Structures to Objects>\t\tBY Tony Gaddis
