@@ -1,0 +1,3 @@
+﻿  payroll_solution.cpp
+C:\Users\bibiz\source\repos\C7_hw_payroll\C7_hw_payroll\payroll_solution.cpp(27,6): warning C4101: 'wages': unreferenced local variable
+  C7_hw_payroll.vcxproj -> C:\Users\bibiz\source\repos\C7_hw_payroll\Debug\C7_hw_payroll.exe
