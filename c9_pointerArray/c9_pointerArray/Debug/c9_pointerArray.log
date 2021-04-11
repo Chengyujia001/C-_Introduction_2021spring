@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\bibiz\source\repos\c9_pointerArray\c9_pointerArray\Source.cpp(16,6): warning C4101: 'y': unreferenced local variable
+  c9_pointerArray.vcxproj -> C:\Users\bibiz\source\repos\c9_pointerArray\Debug\c9_pointerArray.exe
