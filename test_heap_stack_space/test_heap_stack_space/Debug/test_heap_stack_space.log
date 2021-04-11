@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\bibiz\source\repos\test_heap_stack_space\test_heap_stack_space\Source.cpp(44): warning C4172: returning address of local variable or temporary: aaa
+C:\Users\bibiz\source\repos\test_heap_stack_space\test_heap_stack_space\Source.cpp(38): warning C4172: returning address of local variable or temporary: nums
+  test_heap_stack_space.vcxproj -> C:\Users\bibiz\source\repos\test_heap_stack_space\Debug\test_heap_stack_space.exe
